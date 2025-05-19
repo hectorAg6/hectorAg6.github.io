@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>La escasez de agua es un problema serio, pero todavía podemos hacer algo...</h1>
+  <h1>La escasez de agua es un problema serio, pero todavía podemos hacer algo</h1>
   <br>
   <h2>Temas:</h2>
   <br>
