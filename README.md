@@ -11,11 +11,12 @@
   <h2>Temas:</h2>
   <br>
 
-  <a href="https://hectoryyy.github.io/pagina1.html"> Causas de la escasez de agua en Cabo San Lucas</a>
+  <a Inicio.html> Causas de la escasez de agua en Cabo San Lucas</a>
   <br>
-  <a href="https://hectoryyy.github.io/pagina2.html"> Consecuencias para la población y el medio ambiente</a>
+  <a 
+    > Consecuencias para la población y el medio ambiente</a>
   <br>
-  <a href="https://hectoryyy.github.io/pagina3.html"> Soluciones y acciones que podemos tomar</a>
+  <a "> Soluciones y acciones que podemos tomar</a>
 
   <p>
     La escasez de agua en Cabo San Lucas se ha convertido en una preocupación creciente. A pesar de ser un destino turístico muy visitado, el acceso al agua potable es limitado para muchas comunidades. Esto se debe a factores como el crecimiento urbano descontrolado, la falta de infraestructura adecuada y el cambio climático. La población local enfrenta cada vez más dificultades para acceder al agua necesaria para su vida diaria. Entender las causas y consecuencias de este problema es fundamental para poder encontrar soluciones sostenibles que ayuden a conservar este recurso vital.
