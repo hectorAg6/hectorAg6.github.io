@@ -1,101 +1,47 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Escasez de Agua en Cabo San Lucas</title>
+  <title>La escasez de agua</title>
   <style>
+    footer {
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      border-top: 1px solid #ccc;
+    }
     body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #006699;
-      color: white;
-      padding: 60px 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-    }
-    header p {
-      margin-top: 10px;
-      font-size: 1.2em;
-    }
-    .conocenos {
-      text-align: center;
-      margin: 30px;
-    }
-    .conocenos a {
-      background: #00aaff;
-      color: white;
-      padding: 10px 20px;
-      text-decoration: none;
-      border-radius: 5px;
-      font-size: 1.1em;
-    }
-    .secciones {
-      display: flex;
-      justify-content: space-around;
-      padding: 40px 20px;
-      background: #f4f4f4;
-    }
-    .seccion {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-      width: 30%;
-      text-align: center;
-    }
-    .seccion a {
-      display: inline-block;
-      margin-top: 10px;
-      color: #006699;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    @media screen and (max-width: 768px) {
-      .secciones {
-        flex-direction: column;
-        align-items: center;
-      }
-      .seccion {
-        width: 80%;
-        margin-bottom: 20px;
-      }
+      margin-bottom: 60px;
     }
   </style>
 </head>
 <body>
 
-  <header>
-    <h1>Escasez de Agua en Cabo San Lucas</h1>
-    <p>La escasez de agua es un problema grave en Cabo San Lucas, México. Las fuentes naturales se están agotando por el crecimiento de la población y el turismo. Es importante tomar conciencia y cuidar el uso del agua para garantizar su disponibilidad en el futuro.</p>
-  </header>
+  <h1>La escasez de agua es un problema serio, pero todavía podemos hacer algo...</h1>
+  <br>
+  <h2>Temas:</h2>
+  <br>
 
-  <div class="conocenos">
-    <a href="https://www.liceoloscabos.edu.mx" target="_blank">Conócenos</a>
-  </div>
+  <a href="https://hectoryyy.github.io/pagina1.html"> Causas de la escasez de agua en Cabo San Lucas</a>
+  <br>
+  <a href="https://hectoryyy.github.io/pagina2.html"> Consecuencias para la población y el medio ambiente</a>
+  <br>
+  <a href="https://hectoryyy.github.io/pagina3.html"> Soluciones y acciones que podemos tomar</a>
 
-  <div class="secciones">
-    <div class="seccion">
-      <h2>Sección 1</h2>
-      <p>Información adicional sobre causas de la escasez.</p>
-      <a href="seccion1.html">Ir a Sección 1</a>
-    </div>
-    <div class="seccion">
-      <h2>Sección 2</h2>
-      <p>Soluciones propuestas y acciones comunitarias.</p>
-      <a href="seccion2.html">Ir a Sección 2</a>
-    </div>
-    <div class="seccion">
-      <h2>Sección 3</h2>
-      <p>Cómo puedes ayudar desde casa o la escuela.</p>
-      <a href="seccion3.html">Ir a Sección 3</a>
-    </div>
-  </div>
+  <p>
+    La escasez de agua en Cabo San Lucas se ha convertido en una preocupación creciente. A pesar de ser un destino turístico muy visitado, el acceso al agua potable es limitado para muchas comunidades. Esto se debe a factores como el crecimiento urbano descontrolado, la falta de infraestructura adecuada y el cambio climático. La población local enfrenta cada vez más dificultades para acceder al agua necesaria para su vida diaria. Entender las causas y consecuencias de este problema es fundamental para poder encontrar soluciones sostenibles que ayuden a conservar este recurso vital.
+  </p>
+
+  <img src="https://hectoryyy.github.io/IMG_8758.jpeg" width="300">
+  <br>
+
+  <a href="https://hectoryyy.github.io/acerca.html">Conócenos</a>
+
+  <footer>
+    <p>&copy; 2025 Mi proyecto | Héctor. Todos los derechos reservados.</p>
+  </footer>
 
 </body>
 </html>
