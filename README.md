@@ -2,20 +2,7 @@
 <html>
 <head>
   <title>La escasez de agua</title>
-  <style>
-    footer {
-      background-color: #f4f4f4;
-      text-align: center;
-      padding: 10px 0;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      border-top: 1px solid #ccc;
-    }
-    body {
-      margin-bottom: 60px;
-    }
-  </style>
+  
 </head>
 <body>
 
