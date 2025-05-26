@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Escasez de Agua en Cabo San Lucas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa;
+            color: #004d40;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #00695c;
+        }
+        .section {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #00796b;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Escasez de Agua en Cabo San Lucas</h1>
+
+    <div class="section">
+        <h2>🔍 Principales Causas</h2>
+        <ul>
+            <li><strong>Crecimiento Poblacional:</strong> El aumento de la población y el turismo ha incrementado la demanda de agua, superando la capacidad de suministro actual.</li>
+            <li><strong>Infraestructura Insuficiente:</strong> Las plantas desaladoras existentes no cubren la demanda total, y la red hidráulica presenta fallas frecuentes.</li>
+            <li><strong>Sobreexplotación de Acuíferos:</strong> La extracción excesiva de agua subterránea ha reducido los niveles freáticos, afectando la disponibilidad del recurso.</li>
+            <li><strong>Desigualdad en el Acceso:</strong> Mientras los complejos turísticos cuentan con suministro constante, muchas colonias enfrentan cortes frecuentes y deben recurrir a la compra de agua en pipas.</li>
+            <li><strong>Cambio Climático:</strong> Las sequías prolongadas y el aumento de temperaturas han reducido las fuentes naturales de agua.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🚰 Medidas Implementadas</h2>
+        <ul>
+            <li><strong>Proyectos de Infraestructura:</strong> Construcción de nuevas plantas desaladoras y mejora de la red de distribución.</li>
+            <li><strong>Programas de Tandeo:</strong> Distribución equitativa del agua mediante horarios establecidos en diferentes zonas.</li>
+            <li><strong>Concientización Ciudadana:</strong> Campañas para promover el uso responsable del agua entre la población.</li>
+            <li><strong>Innovación Tecnológica:</strong> Implementación de sistemas para captar
