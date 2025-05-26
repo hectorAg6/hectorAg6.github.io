@@ -8,7 +8,7 @@
 
   <h1>La escasez de agua es un problema serio, pero todavía podemos hacer algo</h1>
   <br>
-  <h2>Temas:</h2>
+  <h2>Temas:hectorag6.github.io</h2>
   <br>
 
   <a Inicio.html> Causas de la escasez de agua en Cabo San Lucas</a>
