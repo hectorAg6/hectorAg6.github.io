@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -38,6 +39,7 @@
             justify-content: center;
             gap: 40px;
             margin-top: 50px;
+            flex-wrap: wrap;
         }
 
         .card {
@@ -55,10 +57,18 @@
         }
 
         .card a {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background-color: #00796b;
+            color: white;
+            border-radius: 8px;
             text-decoration: none;
-            color: #00796b;
-            font-size: 20px;
             font-weight: bold;
+        }
+
+        .card a:hover {
+            background-color: #004d40;
         }
 
         footer {
@@ -79,18 +89,20 @@
 
     <div class="container">
         <p>
-            Aquí encontrarás información importante sobre mí, mis intereses y uno de los problemas más importantes en Cabo San Lucas: 
-            la escasez de agua potable. También comparto mi sueño de ser arquitecto y mi gusto por los animales como los perros y caballos.
+            En esta página encontrarás información sobre mí, mis intereses, y uno de los temas más importantes para Cabo San Lucas: la escasez de agua potable. <br>
+            Te invito a explorar y conocer más en las siguientes secciones:
         </p>
 
         <div class="sections">
             <div class="card">
-                <a href="https://hectorag6.github.io/Causas.html">Causas</a>
-                <p>Descubre las razones detrás de la escasez de agua en Cabo San Lucas.</p>
+                <h2>Causas</h2>
+                <p>Descubre por qué hay falta de agua potable en Cabo San Lucas.</p>
+                <a href="https://hectorag6.github.io/Causas.html" target="_blank">Ir a Causas</a>
             </div>
             <div class="card">
-                <a href="https://hectorag6.github.io/acerca.html">Acerca de mí</a>
-                <p>Conoce quién soy, lo que me gusta y lo que quiero lograr en el futuro.</p>
+                <h2>Acerca de mí</h2>
+                <p>Conoce quién soy, qué me gusta y lo que quiero ser en el futuro.</p>
+                <a href="https://hectorag6.github.io/acerca.html" target="_blank">Ir a Acerca de mí</a>
             </div>
         </div>
     </div>
